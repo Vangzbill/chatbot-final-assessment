@@ -1,0 +1,85 @@
+question,context,split
+Bagaimana cara berlangganan paket internet satelit bulanan?,"Untuk berlangganan paket internet satelit bulanan, Anda perlu mengunjungi situs web kami dan mendaftar dengan mengisi formulir online. Setelah itu, anda harus menunggu verifikasi akun oleh pihak Account Manager dan bisa membeli layanan via web kami.",train
+Berapa harga paket internet satelit?,"Harga paket internet satelit berbeda-beda sesuai dengan perangkat dan layanan yang dipilih.",train
+Apa syarat berlangganan internet satelit?,"Syarat berlangganan internet satelit mengisi data data pelanggan, lalu bisa membeli dan membayarkan paket perangkat dan layanan yang dipilih.",train
+Dimana saya bisa mendaftar internet satelit?,Pendaftaran internet satelit bisa dilakukan melalui website resmi kami di www.mytelkomsat.co.id atau menghubungi sales terkait.,train
+Berapa lama proses pemasangan internet satelit?,Proses pemasangan internet satelit langsung bisa dilakukan saat perangkat sudah sampai ke tangan pelanggan.,train
+Apa yang harus dilakukan jika internet satelit bermasalah?,"Jika mengalami masalah dengan internet satelit, pelanggan dapat menghubungi tim helpdesk terkait.",train
+Mengapa saya tidak bisa langsung membeli paket setelah mendaftar?, "Anda tidak bisa langsung membeli paket setelah mendaftar karena akun anda belum diverifikasi oleh pihak Account Manager.",train
+Mengapa saya tidak bisa melihat harga paket internet satelit?,Anda tidak bisa melihat harga paket internet satelit karena anda belum login ke akun anda.,train
+Bagaimana cara membatalkan langganan internet satelit?,"Untuk membatalkan langganan, pelanggan harus memberikan pemberitahuan tertulis 30 hari sebelumnya dan melunasi semua tagihan yang tersisa.",test
+Apakah ada biaya pemasangan internet satelit?,Tidak ada biaya pemasangan internet satelit untuk perangkat dan instalasi.,test
+Berapa kapasitas FUP internet satelit yang tersedia?,"Kami menyediakan beberapa pilihan kapasitas internet satelit mulai dari 50 GB, 1 TB, dan 5 TB  tergantung paket yang dipilih.",test
+Apakah internet satelit bisa digunakan saat hujan?,"Internet satelit tetap bisa digunakan saat hujan ringan, namun kualitas sinyal mungkin berkurang saat hujan lebat atau badai.",test
+Apakah layanan internet satelit tersedia di seluruh Indonesia?,"Ya, layanan internet satelit kami tersedia di seluruh wilayah Indonesia, termasuk daerah terpencil.",train
+Bagaimana cara saya memantau penggunaan data internet satelit?,"Anda dapat memantau penggunaan data melalui aplikasi atau langsung di website resmi kami.",train
+Apa keunggulan internet satelit dibandingkan dengan internet kabel?,"Internet satelit memiliki keunggulan berupa jangkauan yang luas hingga daerah terpencil, tidak tergantung pada infrastruktur kabel, dan lebih cepat dalam hal instalasi.",train
+Apakah internet satelit lebih lambat dari internet fiber?,"Ya, internet satelit umumnya memiliki latency lebih tinggi dibandingkan internet fiber, namun sudah cukup untuk kebutuhan sehari-hari seperti browsing dan streaming.",train
+Bagaimana cara memperpanjang langganan internet satelit?,"Untuk memperpanjang langganan, Anda cukup membeli produk dan menyetujui Syarat Ketentuan, nanti secara otomatis layanan akan dianggap perpanjang dengan metode postpaid.",train
+Apa yang perlu disiapkan untuk instalasi internet satelit?,"Untuk instalasi, Anda perlu menyiapkan lokasi yang tepat untuk antena parabola dengan pandangan langsung ke langit dan akses listrik yang stabil.",train
+Berapa kecepatan internet satelit yang ditawarkan?,"Kami menawarkan kecepatan download mulai dari 5 Mbps hingga 50 Mbps, tergantung paket yang dipilih.",train
+Apakah saya bisa menggunakan internet satelit untuk video conference?,"Ya, Anda bisa menggunakan internet satelit untuk video conference.",train
+Bagaimana cara menghubungi customer service untuk internet satelit?,"Anda dapat menghubungi customer service kami melalui nomor di button helpdesk.",train
+Apakah bisa berlangganan internet satelit tanpa membeli perangkat?,"Tidak, untuk menggunakan layanan internet satelit kami, Anda perlu membeli perangkat yang kompatibel.",train
+Berapa jangka waktu minimum berlangganan internet satelit?,"Jangka waktu minimum berlangganan adalah 12 bulan, sesuai dengan syarat dan ketentuan yang berlaku.",train
+Apakah ada penalti jika saya membatalkan langganan di tengah periode?,"Tidak, tidak ada penalti jika anda membatalkan berlangganan, namun setelah deposit layanan anda terpakai maka layanan akan dinonaktifkan.",test
+Apakah saya membutuhkan teknisi untuk memasang perangkat internet satelit?,"Perangkat kami dirancang untuk pemasangan mandiri, namun kami juga menyediakan layanan teknisi dengan biaya tambahan jika diperlukan.",test
+Berapa lama masa garansi perangkat internet satelit?,"Masa garansi perangkat internet satelit adalah 1 tahun untuk kerusakan yang bukan disebabkan oleh pengguna.",test
+Apakah internet satelit memerlukan listrik?,"Ya, perangkat internet satelit memerlukan sumber listrik yang stabil untuk beroperasi.",test
+Berapa batas data bulanan pada paket internet satelit?,"Batas data bulanan bervariasi mulai dari 50 GB hingga 2TB tergantung paket yang dipilih.",test
+Apa yang terjadi jika saya melewati batas penggunaan data?,"Jika melewati batas penggunaan data, kecepatan akan diturunkan hingga periode penagihan berikutnya.",train
+Apakah internet satelit kompatibel dengan semua perangkat?,"Ya, internet satelit kami kompatibel dengan semua perangkat yang mendukung koneksi Wi-Fi atau Ethernet standar.",train
+Bagaimana proses pengiriman perangkat internet satelit?,"Perangkat akan dikirimkan melalui jasa ekspedisi pilihan kami atau bisa juga diambil di kantor operasional kamu dan untuk ekspedisi biasanya tiba dalam waktu 3-7 hari kerja tergantung lokasi.",train
+Bagaimana jika saya pindah lokasi?,"Jika Anda pindah lokasi, perangkat internet satelit dapat dibawa dan dipasang kembali di lokasi baru tanpa biaya tambahan.",train
+Bagaimana cara melakukan pembayaran bulanan?,"Pembayaran bulanan dapat dilakukan melalui transfer bank, kartu kredit, atau e-wallet yang terintegrasi dengan platform kami.",train
+Apakah saya bisa menggunakan internet satelit saat bepergian?,"Ya, anda bisa menggunakan layanan kami saat bepergian jika jenis perangkat yang anda pilih adalah Land Mobility.",train
+Bagaimana cara registrasi untuk berlangganan internet satelit?,"Untuk registrasi, Anda perlu mengakses website kami, mengisi formulir pendaftaran, dan menunggu verifikasi dari Account Manager.",train
+Berapa lama proses verifikasi akun oleh Account Manager?,"Proses verifikasi akun oleh Account Manager biasanya memakan waktu 1-2 hari kerja.",train
+Apa yang harus saya lakukan jika lupa password akun?,"Jika lupa password, Anda dapat menggunakan fitur 'Lupa Password' di halaman login dan mengikuti instruksi yang dikirimkan ke email terdaftar.",test
+Bagaimana cara mengatur router untuk internet satelit?,"Router akan dikonfigurasi secara otomatis, namun jika terdapat kendala pemasangan bisa menghubungi nomor helpdesk di situs web kami.",test
+Apakah internet satelit bisa digunakan untuk gaming online?,"Internet satelit dapat digunakan untuk gaming online, namun mungkin kurang optimal untuk game yang memerlukan respons real-time karena latency yang lebih tinggi.",test
+Apakah ada batasan jumlah perangkat yang terhubung?,"Tidak ada batasan jumlah perangkat yang terhubung, namun kualitas koneksi mungkin menurun jika terlalu banyak perangkat aktif secara bersamaan.",test
+Berapa jarak maksimal antara antena dan router?,"Jarak maksimal antara antena dan router adalah 30 meter dengan kabel standar, namun dapat diperpanjang dengan perangkat tambahan.",test
+Apakah layanan internet satelit tersedia 24/7?,"Ya, layanan internet satelit kami tersedia 24/7, dengan dukungan teknis yang juga beroperasi sepanjang waktu.",train
+Bagaimana prosedur pengembalian perangkat jika saya ingin berhenti berlangganan?,"Untuk perangkat tidak mengembalikan karena sudah dibeli, namun tidak bisa mengakses layanan kami karena langganan layanan sudah berhenti.",train
+Apakah internet satelit aman dari pencurian data?,"Ya, internet satelit kami dilengkapi dengan enkripsi standar industri untuk menjaga keamanan data pelanggan.",train
+Apa yang dimaksud dengan periode kontrak?,"Periode kontrak adalah jangka waktu minimum berlangganan yang harus Anda penuhi sesuai perjanjian saat pendaftaran.",train
+Bagaimana cara memeriksa status pesanan perangkat internet satelit?,"Anda dapat memeriksa status pesanan melalui halaman 'Pesanan Saya' setelah login ke akun atau menghubungi customer service.",train
+Apakah internet satelit bisa digunakan di daerah dengan cuaca ekstrem?,"Internet satelit dapat digunakan di daerah dengan cuaca ekstrem, namun kualitas sinyal mungkin terpengaruh saat kondisi cuaca sangat buruk.",train
+Bagaimana cara mengajukan komplain jika layanan tidak sesuai ekspektasi?,"Untuk mengajukan komplain, Anda dapat menghubungi customer service atau mengisi form rating di website kami.",train
+Apa saja metode pembayaran yang diterima?,"Kami menerima pembayaran melalui transfer bank, kartu kredit, debit online, dan berbagai e-wallet populer di Indonesia.",train
+Apakah ada aplikasi untuk monitoring penggunaan internet satelit?,"Ya, kami menyediakan aplikasi mobile untuk memantau penggunaan data, kecepatan, dan status langganan Anda, nama aplikasinya sesuai dengan website kami.",train
+Apa yang terjadi jika perangkat internet satelit rusak?,"Jika perangkat rusak dalam masa garansi dan bukan karena kesalahan pengguna, kami akan memperbaiki atau menggantinya tanpa biaya tambahan.",test
+Bagaimana cara menyesuaikan arah antena parabola?,"Perangkat kami dilengkapi dengan panduan penyesuaian arah dan aplikasi bantu untuk menemukan sinyal optimal.",test
+Berapa biaya sewa bulanan untuk layanan internet satelit?,"Biaya sewa layanan berkisar beragam per bulan tergantung jenis layanan.",test
+Apakah internet satelit bisa digunakan untuk video surveillance?,"Ya, internet satelit dapat digunakan untuk video surveillance, namun disarankan memilih paket dengan bandwidth yang mencukupi.",test
+Berapa jangka waktu pengiriman perangkat setelah pembayaran?,"Perangkat akan dikirim dalam waktu 1-3 hari kerja setelah pembayaran terverifikasi.",test
+Bagaimana cara mempercepat koneksi internet satelit?,"Untuk mempercepat koneksi, pastikan antena diarahkan dengan tepat, minimalisir penghalang, dan batasi jumlah perangkat yang terhubung bersamaan.",train
+Apakah internet satelit kompatibel dengan VPN?,"Ya, internet satelit kami kompatibel dengan layanan VPN standar.",train
+Bagaimana prosedur pengajuan klaim garansi perangkat?,"Untuk mengajukan klaim garansi, hubungi customer service dengan menyertakan bukti pembelian dan deskripsi kerusakan.",train
+Apakah internet satelit menyediakan layanan IPv6?,"Ya, kami mendukung IPv6 pada semua paket langganan.",train
+Apakah ada biaya aktivasi untuk berlangganan internet satelit?,"Tidak, tidak terdapat biaya aktivasi saat pertama kali berlangganan.",train
+Bagaimana cara memilih lokasi terbaik untuk antena satelit?,"Lokasi terbaik adalah area dengan pandangan langsung ke langit tanpa penghalang seperti pohon atau bangunan tinggi.",train
+Apa yang harus dilakukan jika sinyal internet satelit melemah?,"Jika sinyal melemah, periksa kembali arah antena, bersihkan antena dari kotoran, dan pastikan tidak ada penghalang baru yang muncul.",train
+Apakah ada paket khusus untuk usaha kecil menengah?,"Ya, kami menyediakan layanan khusus UKM dengan fitur dan harga yang disesuaikan untuk kebutuhan bisnis kecil menengah.",train
+Berapa jarak jangkauan Wi-Fi dari router internet satelit?,"Jarak jangkauan Wi-Fi dari router standar kami adalah sekitar 20-30 meter dalam ruangan tanpa penghalang.",train
+Bagaimana cara menambah kuota data internet satelit?,"Untuk menambah kuota, login ke akun Anda dan pilih opsi 'Beli Data Tambahan' di menu pengelolaan paket.",train
+Bagaimana cara memeriksa kecepatan internet satelit?,"Anda dapat memeriksa kecepatan melalui aplikasi kami atau menggunakan layanan speed test online seperti Speedtest.net.",test
+Apakah layanan internet satelit mencakup area pegunungan?,"Ya, layanan internet satelit kami mencakup area pegunungan selama masih memiliki pandangan langsung ke langit.",test
+Apa yang terjadi jika terjadi pemadaman listrik?,"Jika terjadi pemadaman listrik, layanan akan terhenti hingga listrik kembali menyala, kecuali jika Anda memiliki sistem cadangan seperti UPS atau generator.",test
+Bagaimana sistem penagihan bulanan bekerja?,"Sistem penagihan bulanan bekerja dengan mengirimkan invoice ke email terdaftar selama sebulan periode pembayaran dan bisa juga dilihat di website pada menu billing.",test
+Apa yang dimaksud dengan latency pada internet satelit?,"Latency adalah waktu yang dibutuhkan sinyal untuk berpindah dari perangkat Anda ke satelit dan kembali, biasanya sekitar 500-700 ms pada internet satelit.",train
+Bagaimana cara mengatur pembatasan akses untuk anak-anak?,"Untuk pembatasan akses, dalam sistem kami tidak terdapat hal tersebut.",train
+Apakah internet satelit dapat digunakan untuk sistem POS?,"Ya, internet satelit dapat digunakan untuk sistem POS, namun disarankan memilih paket dengan jaminan uptime yang tinggi.",train
+Berapa batas waktu untuk melunasi tagihan bulanan?,"Batas waktu pelunasan tagihan adalah selama sebulan setelah dikirimkannya invoice.",train
+Bagaimana cara mendaftar layanan internet satelit secara online?,"Untuk mendaftar online, kunjungi website www.mytelkomsat.co.id, pilih menu 'Daftar', isi formulir, dan ikuti instruksi selanjutnya.",train
+Apakah ada periode uji coba untuk layanan internet satelit?,"Tidak, kami tidak menyediakan periode uji coba secara gratis.",train
+Bagaimana cara mengatasi interferensi sinyal satelit?,"Untuk mengatasi interferensi, pastikan antena tidak terlalu dekat dengan perangkat elektronik lain dan periksa kembali arah antena.",train
+Apakah internet satelit bisa digunakan untuk server hosting?,"Internet satelit tidak direkomendasikan untuk server hosting karena latency yang relatif tinggi, namun masih memungkinkan untuk hosting ringan dengan paket bisnis.",train
+Bagaimana prosedur perubahan data pelanggan?,"Untuk mengubah data pelanggan, anda bisa menghubungi customer service dengan verifikasi identitas.",train
+Berapa kapasitas upload pada internet satelit?,"Kapasitas upload biasanya 1/3 dari kapasitas download, misalnya paket dengan download 15 Mbps akan memiliki upload sekitar 5 Mbps.",train
+Bagaimana cara mendapatkan invoice tagihan bulanan?,"Invoice tagihan bulanan akan dikirimkan otomatis ke email terdaftar, atau dapat diakses melalui halaman 'Tagihan Saya' di dalam dashboard menu billing setelah login.",test
+Apakah internet satelit dapat digunakan saat bencana alam?,"Ya, internet satelit sering menjadi solusi komunikasi alternatif saat infrastruktur telekomunikasi konvensional terganggu akibat bencana alam.",test
+Berapa jumlah maksimal koneksi simultan yang didukung?,"Jumlah maksimal koneksi simultan tergantung pada router yang digunakan, umumnya antara 30-50 perangkat untuk router standar kami.",test
+Apakah saya bisa menggunakan router sendiri dengan internet satelit?,"Ya, Anda dapat menggunakan router sendiri selama kompatibel dengan modem satelit kami.",test
+Bagaimana cara mendapatkan bantuan teknis di akhir pekan?,"Bantuan teknis tersedia 24/7 termasuk akhir pekan melalui helpdesk seperti yang tertera di website kami.",test
